@@ -1,0 +1,21 @@
+{
+    "name": "yii2x/yii2-enterprise",
+    "description": "Yii2 Enterprise",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Yuriy Basov",
+            "email": "w3devlab@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "yii2x\\enterprise\\": ""
+        }
+    }
+}
