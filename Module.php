@@ -1,6 +1,6 @@
 <?php
 
-namespace app\modules\yii2x\enterprise;
+namespace \yii2x\enterprise;
 
 /**
  * enterprise module definition class
