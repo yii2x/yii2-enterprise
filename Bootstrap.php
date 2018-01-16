@@ -1,6 +1,6 @@
 <?php
 
-namespace \yii2x\enterprise;
+namespace yii2x\enterprise;
 
 use \yii\base\BootstrapInterface;
 
